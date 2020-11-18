@@ -37,4 +37,9 @@ class TemplateImplement2(Template):
         print('TemplateImplementation2.function1() called.')
         
     def function2(self):
-        print('TemplateImplementation2.function2() called.')       
+        print('TemplateImplementation2.function2() called.')     
+        
+        
+
+        
+# 출처: https://niceman.tistory.com/183        
