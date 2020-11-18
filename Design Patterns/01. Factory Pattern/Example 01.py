@@ -38,3 +38,8 @@ db_factory = DBConnectFactory()
 print(db_factory.getDBConnection(SQLServer()))
 print(db_factory.getDBConnection(Oracle()))
 print(db_factory.getDBConnection(MariaDB()))
+
+
+
+
+#출처: https://niceman.tistory.com/181
